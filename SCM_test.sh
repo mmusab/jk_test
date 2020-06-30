@@ -1,4 +1,4 @@
 #./bin/bash
 
 echo "SCM testing"
-echo "githook triggering this j"
+echo "githook triggering this"
